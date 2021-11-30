@@ -17,7 +17,7 @@ Yapmanızı beklediğimiz projenin temel amacı, REST API ile bir üyelik sistem
 2. Kullanıcı adının daha önce kullanılmaması gerekmektedir. 
 3. Eposta kurallara uygun bir şekilde olmalıdır.
 4. Parola en az 8 karakter, bir büyük harf,bir küçük harf ve bir sayı içermelidir.
-5. Parola kullanıcı adı ve ya eposta içermemelidir.
+5. Parola kullanıcı adı veya eposta içermemelidir.
 
 ## Bonus
 1. İstediğimiz şartları sağlayan REST API'ı istediğiniz dilde geliştirebilirsiniz fakat Go dilinde geliştirmeniz size ekstra puan getirecektir.
