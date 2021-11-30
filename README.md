@@ -26,7 +26,7 @@ Yapmanızı beklediğimiz projenin temel amacı, REST API ile bir üyelik sistem
 
 ## Detaylar
 1. Projeyi bir repository olarak oluşturmanızı veya bu repository i forklayıp üzerine geliştirmenizi bekliyoruz. (Repository i forklayanlar projeyi tamamladıktan sonra pull request oluştura bilirler)
-2. Projenin sadece REST API kısmını geliştirmenizi bekliyoruz.
+2. Projenin sadece REST API kısmını geliştirmenizi bekliyoruz.(Frontend Kodlamanıza Gerek Yoktur)
 3. Projeyi geliştirirken istediğiniz dili ve veritabanı yapısını kullanabilirsiniz.
 4. Projeyi tamamladıktan sonra projenizin linkini konu kısmına isim soyisim + staj projesi yazarak osman.demir@sanatteknoloji.com.tr adresine mail atmanız gerekmektedir. Örnek mail konusu: <strong> Osman Yavuz Demir Staj Projesi </strong>
 5. Eğer sormak istediğiniz bir soru varsa bizimle osman.demir@sanatteknoloji.com.tr adresi üzerinden iletişime geçebilirsiniz.
